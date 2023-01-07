@@ -3,7 +3,7 @@ import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-///  fe Class used to log the print stack trace items
+///  fhe Class used to log the print stack trace items
 public class LoggerStackTraceUtil {
 
 	private static final Logger LOG =LoggerFactory.getLogger(LoggerStackTraceUtil.class);  
